@@ -1,6 +1,7 @@
-## Hi there 👋
+ Hi there 👋
 
-It is ✨ magic ✨ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
