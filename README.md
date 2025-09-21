@@ -1,6 +1,7 @@
  Hi, I am Lera (´｡• ᵕ •｡`) ♡
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=It+is+✨magic✨ )](https://git.io/typing-svg)
+
 Добро пожаловать в мой уютный уголок на GitHub!  
 Здесь я делюсь своими проектами и идеями с теплом и вниманием к деталям.  
 
