@@ -2,7 +2,7 @@
 
 # 🌷 Hi, I am Lera (´｡• ᵕ •｡`) ♡ 🌷  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=24&duration=4000&pause=1000&color=F7A8B8&center=true&vCenter=true&width=500&lines=It+is+✨magic✨;Welcome+to+my+pastel+world+🌸;Let's+create+something+cute+🐾)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=24&duration=4000&pause=1000&color=F7A8B8&center=true&vCenter=true&width=500&lines=It+is+✨magic✨;Let's+create+something+cute+🌸)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="250" alt="cute pastel cat"/>
 
@@ -21,18 +21,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="200" alt="kitty typing"/>
 </div>
-
-
-### 🐾 Котики & Эмодзи уголок 🐾
-
-<p align="center" style="font-size:20px">
-🌸 🐱 💖 🐾 🌷 🐈 ☁️ 🦄 🍓 💤 🐾 🌸 🐱 💕 🐈 🌷  
-</p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="funny cat"/>
-  <img src="https://media.giphy.com/media/kfz7mZC5U8dI4/giphy.gif" width="150" alt="tiny cat"/>
-  <img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="150" alt="happy cat"/>
 </div>
 
 ---
@@ -50,7 +40,4 @@
 
 🌷 Спасибо, что заглянули! 🌷  
 _Пусть ваш день будет таким же приятным, как чашка теплого какао ☕✨_
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=f7a8b8" alt="profile views"/>  
-
 </div>
